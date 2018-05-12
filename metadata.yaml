@@ -1,0 +1,28 @@
+_repo: The-Story-of-the-Mind_20522
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baldwin, James Mark
+    alias: Baldwin, J. M. (James Mark)
+    birthdate: 1861
+    deathdate: 1934
+    gutenberg_agent_id: '9355'
+    url: http://www.gutenberg.org/2009/agents/9355
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2007-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20522'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Psychology'
+title: The Story of the Mind
+url: http://www.gutenberg.org/ebooks/20522
